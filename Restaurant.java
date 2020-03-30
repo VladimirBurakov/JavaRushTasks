@@ -20,5 +20,6 @@ public class Restaurant {
         directorTablet.printCookWorkloading();
         directorTablet.printActiveVideoSet();
         directorTablet.printArchivedVideoSet();
+
     }
 }
